@@ -324,6 +324,10 @@ curl -X GET http://localhost:3000/text \
   -d '{}'
 ```
 
+![Architecture Diagram](plum/k1.png)
+![Architecture Diagram](plum/k2.png)
+
+
 #### Image Endpoint
 
 ```bash
