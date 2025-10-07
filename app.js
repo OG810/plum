@@ -1,6 +1,6 @@
 import express from "express"
 const app = express();
-import router from "./src/route/textroute.js"
+import router from "./src/route/index.js"
 import bodyParser from "body-parser";
 
 // Middleware to parse JSON
