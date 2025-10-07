@@ -1,5 +1,7 @@
 # plum
 
+Video Explanation link: https://youtu.be/QiH-D6wEFA0
+
 # Appointment Scheduling Parser
 
 A backend service that parses natural language or document-based appointment requests and converts them into structured scheduling data. The system handles both typed text and noisy image inputs (e.g., scanned notes, emails) using OCR, entity extraction, normalization, and structured JSON output with guardrails for ambiguity.
